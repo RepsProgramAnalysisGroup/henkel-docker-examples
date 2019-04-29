@@ -1,0 +1,5 @@
+github___23___resumable.js, git://github.com/23/resumable.js.git
+github___75team___thinkjs, git://github.com/75team/thinkjs.git
+github___adam-p___markdown-here, git://github.com/adam-p/markdown-here.git
+github___addyosmani___backbone-fundamentals, git://github.com/addyosmani/backbone-fundamentals.git
+github___adobe___brackets, git://github.com/adobe/brackets.git
