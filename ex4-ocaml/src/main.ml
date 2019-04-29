@@ -1,0 +1,1 @@
+print_endline "hello ocaml (inside docker)";;
